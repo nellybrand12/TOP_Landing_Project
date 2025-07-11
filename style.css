@@ -104,7 +104,7 @@ main{
     flex-direction: column;
     gap: 30px;
     justify-content: center;
-    margin-bottom: 60px; /* Increase space below container */
+    margin-bottom: 60px;
     padding: 0 10%;
 }
 
